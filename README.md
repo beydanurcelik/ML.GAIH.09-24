@@ -1,7 +1,7 @@
 # ML.GAIH.09-24
 #Global AI Hub Machine Learning Final Projesi
 
-#a.	https://www.kaggle.com/code/beydanurcelik/ml-gaih-09-24
+#	https://www.kaggle.com/code/beydanurcelik/ml-gaih-09-24
 
 #Veri seti, Amerika Birleşik Devletleri'nde meydana gelen trafik kazalarını içeren bir koleksiyondur. İçinde kaza tarihleri, lokasyon bilgileri (enlem, boylam), hava durumu, yol koşulları, kaza şiddeti ve araç sayısı gibi çeşitli değişkenler bulunmaktadır. Toplamda 2.5 milyondan fazla kayıt içeren bu veri seti, kazaların nedenlerini, dağılımını ve etkilerini analiz etmek için oldukça zengindir. Bu sayede, trafik güvenliği ile ilgili önemli içgörüler elde edilebilir.
 
